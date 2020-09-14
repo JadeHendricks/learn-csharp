@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hendr\\source\\repos\\learn-csharp\\learn-csharp\\learn-csharp\\learn-csharp.csproj": {}
+    "C:\\Users\\hendr\\Source\\Repos\\learn-csharp\\learn-csharp\\learn-csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hendr\\source\\repos\\learn-csharp\\learn-csharp\\learn-csharp\\learn-csharp.csproj": {
+    "C:\\Users\\hendr\\Source\\Repos\\learn-csharp\\learn-csharp\\learn-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hendr\\source\\repos\\learn-csharp\\learn-csharp\\learn-csharp\\learn-csharp.csproj",
+        "projectUniqueName": "C:\\Users\\hendr\\Source\\Repos\\learn-csharp\\learn-csharp\\learn-csharp.csproj",
         "projectName": "learn-csharp",
-        "projectPath": "C:\\Users\\hendr\\source\\repos\\learn-csharp\\learn-csharp\\learn-csharp\\learn-csharp.csproj",
+        "projectPath": "C:\\Users\\hendr\\Source\\Repos\\learn-csharp\\learn-csharp\\learn-csharp.csproj",
         "packagesPath": "C:\\Users\\hendr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hendr\\source\\repos\\learn-csharp\\learn-csharp\\learn-csharp\\obj\\",
+        "outputPath": "C:\\Users\\hendr\\Source\\Repos\\learn-csharp\\learn-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hendr\\AppData\\Roaming\\NuGet\\NuGet.Config",

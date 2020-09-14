@@ -1,0 +1,13 @@
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.exe
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.deps.json
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.runtimeconfig.json
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.runtimeconfig.dev.json
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.dll
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\bin\Debug\netcoreapp3.1\learn-csharp.pdb
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.csprojAssemblyReference.cache
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.AssemblyInfoInputs.cache
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.AssemblyInfo.cs
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.csproj.CoreCompileInputs.cache
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.dll
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.pdb
+C:\Users\hendr\Source\Repos\learn-csharp\learn-csharp\obj\Debug\netcoreapp3.1\learn-csharp.genruntimeconfig.cache
