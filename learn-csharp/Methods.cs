@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class Methods
     {
-        static void Main(string[] args)
+        static void Main_Methods(string[] args)
         {
             SayHi("Jade", 23);
             Console.WriteLine(cube(5));
