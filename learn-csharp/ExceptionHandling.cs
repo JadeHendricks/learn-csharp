@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class ExceptionHandling
     {
-        static void Main(string[] args)
+        static void Main_ExceptionHandling(string[] args)
         {
             try
             {
@@ -28,8 +28,6 @@ namespace learn_csharp
             {
                 Console.WriteLine("Finally");
             }
-
-
         }
     }
 }
