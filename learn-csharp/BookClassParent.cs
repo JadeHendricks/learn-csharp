@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class BookClassParent
     {
-        static void Main(string[] args)
+        static void Main_BookClassParent(string[] args)
         {
             BookClass book1 = new BookClass("Harry Potter", "JK Rowling", 400);
             BookClass book2 = new BookClass("Lord Of The Rings", "Tolkein", 700);
