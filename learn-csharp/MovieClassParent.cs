@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class MovieClassParent
     {
-        static void Main(string[] args)
+        static void Main_MovieClassParent(string[] args)
         {
             // VALID RATINGS - G, PG, PG-13, R, NR
             MovieClass avengers = new MovieClass("The Avengers", "Joss Whedon", "PG-13");
