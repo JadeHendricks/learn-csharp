@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class WorkingWithNumbers
     {
-        static void Main(string[] args)
+        static void Working_With_Numbers(string[] args)
         {
             Console.WriteLine(5 + 8);
             int num = 6;
