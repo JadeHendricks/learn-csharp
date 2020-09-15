@@ -6,7 +6,7 @@ namespace learn_csharp
 {
     class WhileLoops
     {
-        static void Main(string[] args)
+        static void Main_While(string[] args)
         {
             int index = 1;
             while (index <= 5)
